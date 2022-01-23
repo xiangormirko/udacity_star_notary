@@ -2,11 +2,11 @@
 **PROJECT: Decentralized Star Notary Service Project** 
 A Dapp to register and exchange Stars on the chain!
 
-Truffle Version:
-OpenZeppelin Version:
-Your ERC-721 Token Name: "A Star was Born"
-Your ERC-721 Token Symbol: "SWB"
-Rinkeby Network Token Address: "0x209CeE51cDcceb158aeDFbEFD329EEf55f3B1BDb"
+#Truffle Version: v5.4.29
+#OpenZeppelin Version: openzeppelin-solidity@2.3
+#Your ERC-721 Token Name: "A Star was Born"
+#Your ERC-721 Token Symbol: "SWB"
+#Rinkeby Network Token Address: "0x209CeE51cDcceb158aeDFbEFD329EEf55f3B1BDb"
 
 
 ### Dependencies
